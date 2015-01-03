@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c6cd474-c09f-4094-9e52-734faaee8efc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="5c6cd474-c09f-4094-9e52-734faaee8efc" name="Default" comment="" />
     <ignored path="Renaming Java To Oracle Java.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -78,7 +76,7 @@
       <file leaf-file-name="XMLFileParser.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/XMLFileParser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="109" column="8" selection-start="2844" selection-end="2844" vertical-scroll-proportion="0.4857143" vertical-offset="1670" max-vertical-offset="2800">
+            <state line="114" column="11" selection-start="3070" selection-end="3070" vertical-scroll-proportion="0.7714286" vertical-offset="1670" max-vertical-offset="2800">
               <folding />
             </state>
           </provider>
@@ -487,7 +485,7 @@
       <workItem from="1420295547794" duration="291000" />
       <workItem from="1420296655018" duration="74000" />
       <workItem from="1420296753329" duration="203000" />
-      <workItem from="1420296976563" duration="2305000" />
+      <workItem from="1420296976563" duration="2445000" />
     </task>
     <task id="LOCAL-00001" summary="file contain changed&#10;Back to initial coe">
       <created>1420298261105</created>
@@ -497,7 +495,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35009000" />
+    <option name="totallyTimeSpent" value="35149000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -527,7 +525,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.7065053" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4311649" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4311649" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.093699515" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -926,7 +924,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/XMLFileParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="8" selection-start="2844" selection-end="2844" vertical-scroll-proportion="0.4857143" vertical-offset="1670" max-vertical-offset="2800">
+        <state line="114" column="11" selection-start="3070" selection-end="3070" vertical-scroll-proportion="0.7714286" vertical-offset="1670" max-vertical-offset="2800">
           <folding />
         </state>
       </provider>
