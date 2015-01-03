@@ -105,9 +105,9 @@ public class XMLFileParser {
 
 
     public void writeModifiedXMLInFile(String fileName,Document document) {
-        NodeList list = document.getElementsByTagName("*");
-
-int i,j;
+        //NodeList list = document.getElementsByTagName("*");
+int i;
+        NodeList list = null;
         try {
             TransformerFactory tFactory =TransformerFactory.newInstance();
             Transformer transformer = tFactory.newTransformer();
