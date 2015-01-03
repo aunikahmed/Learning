@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><mydoc>
+    <test title="This  Oracle java will be updated">
+
+    <line1> Oracle java has been renamed to Oracle Java</line1>
+    </test>
+    <test title="second This Oracle java will be updated">
+
+        <line1>second Oracle java has been renamed to Oracle Java</line1>
+    </test>
+
+</mydoc>
