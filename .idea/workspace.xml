@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c6cd474-c09f-4094-9e52-734faaee8efc" name="Default" comment="" />
+    <list default="true" id="5c6cd474-c09f-4094-9e52-734faaee8efc" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/XMLFileParser.java" afterPath="$PROJECT_DIR$/src/XMLFileParser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Renaming Java To Oracle Java.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -76,7 +79,7 @@
       <file leaf-file-name="XMLFileParser.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/XMLFileParser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="109" column="0" selection-start="2836" selection-end="2836" vertical-scroll-proportion="0.4857143" vertical-offset="1670" max-vertical-offset="2800">
+            <state line="109" column="8" selection-start="2844" selection-end="2844" vertical-scroll-proportion="0.4857143" vertical-offset="1670" max-vertical-offset="2800">
               <folding />
             </state>
           </provider>
@@ -485,7 +488,7 @@
       <workItem from="1420295547794" duration="291000" />
       <workItem from="1420296655018" duration="74000" />
       <workItem from="1420296753329" duration="203000" />
-      <workItem from="1420296976563" duration="1846000" />
+      <workItem from="1420296976563" duration="2099000" />
     </task>
     <task id="LOCAL-00001" summary="file contain changed&#10;Back to initial coe">
       <created>1420298261105</created>
@@ -495,7 +498,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34550000" />
+    <option name="totallyTimeSpent" value="34803000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -924,7 +927,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/XMLFileParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="0" selection-start="2836" selection-end="2836" vertical-scroll-proportion="0.4857143" vertical-offset="1670" max-vertical-offset="2800">
+        <state line="109" column="8" selection-start="2844" selection-end="2844" vertical-scroll-proportion="0.4857143" vertical-offset="1670" max-vertical-offset="2800">
           <folding />
         </state>
       </provider>
